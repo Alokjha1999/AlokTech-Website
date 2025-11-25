@@ -1,4 +1,4 @@
-# Alok Tech Website Project React Js
+# Alok Tech Website Project
 
 ## For this website I used:
 - [React JS](https://react.dev/)
